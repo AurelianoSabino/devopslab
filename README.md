@@ -1,2 +1,2 @@
-# devopslab
-App Simples Python
+# Lab Experience Devops & Cloud
+Aplicação Simples em  Python/Flask com teste usando Unittest integrado ao Travis-CI fazendo deploy no Heroku.
